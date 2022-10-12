@@ -9,7 +9,7 @@ MetaMask is required for for two main reasons:
 1. To swap $ETH (Ether) for $DTOOLS, which is an ERC-20 native token on the Ethereum blockchain.
 2. To verify $DTOOLS token amount and connect to DTOOLS telegram bots and dapp.
 
-To download the MetaMask wallet visit [Chrome Web Store](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn "Chrome Web Store).
+To download the MetaMask wallet visit [Chrome Web Store](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn "Chrome Web Store").
 
 Once installed, you can import your pre-existing wallet using your private key, or proceed to create a new wallet with a new seed phrase. 
 
